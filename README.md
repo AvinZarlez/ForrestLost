@@ -29,5 +29,6 @@ I have a lot of ideas of what I will do to continue the game. I want to mess aro
 I hope you enjoy this prototype. If you have any questions or comments, please email me at Tobiah@PlayPerro.com
 
 Have fun finding Forrest!
+
 -Tobiah 
 
